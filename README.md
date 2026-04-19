@@ -1,5 +1,3 @@
-# estudos-automacao-dados-notebooklm
-
 # 📑 Masterguide: Gestão de Automação e Análise de Dados de Alta Performance
 
 ## 🎯 Contexto e Objetivos
